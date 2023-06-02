@@ -1,0 +1,2 @@
+rpaframework==23.0.0
+rpaframework-assistant==2.2.2
